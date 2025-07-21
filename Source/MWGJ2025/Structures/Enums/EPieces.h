@@ -4,7 +4,7 @@
 #include "CoreMinimal.h"
 
 UENUM(BlueprintType)
-enum class EBooks: uint8
+enum class EPieces : uint8
 {
 	NONE,
 	Libro1,
