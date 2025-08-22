@@ -8,6 +8,8 @@ enum class EBooks: uint8
 {
 	NONE,
 	Doc0,
+	Doc1a,
+	Doc1b,
 	Doc2a,
 	Doc2b,
 	Doc3a_1,
@@ -17,5 +19,7 @@ enum class EBooks: uint8
 	Doc4a,
 	Doc4b,
 	Doc5a,
-	Doc5b
+	Doc5b,
+	Doc3a_1_2_3
 };
+
